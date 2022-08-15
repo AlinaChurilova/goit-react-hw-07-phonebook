@@ -1,0 +1,14 @@
+.Label {
+    display: block;
+    margin-top: 8px;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+}
+
+.Input {
+    display: block;
+    margin-top: 6px;
+}

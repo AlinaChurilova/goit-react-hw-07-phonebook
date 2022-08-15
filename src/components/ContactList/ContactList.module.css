@@ -1,0 +1,26 @@
+.ListItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.List {
+    width: 200px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.BtnDelate {
+    display: block;
+    color: white;
+    background-color: #2196f3;
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    border-color: #2196f3;
+}
